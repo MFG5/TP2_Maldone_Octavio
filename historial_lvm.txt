@@ -1,0 +1,79 @@
+whoami
+    2  who
+    3  id
+    4  w
+    5  last
+    6  uname -a
+    7  cat/proc/cpuinfo
+    8  cat/proc/meminfo
+    9  cat /proc/cpuinfo
+   10  cat /proc/meminfo
+   11  cat /proc/partitions
+   12  free -h
+   13  df -h
+   14  isb_release -a
+   15  lsb_release -a
+   16  lsbik
+   17  isbik
+   18  lsblk
+   19  lscpu
+   20  ps aux
+   21  top
+   22  history
+   23  whoami
+   24  who
+   25  id
+   26  w
+   27  last
+   28  uname -a
+   29  cat /proc/cpuinfo
+   30  cat /proc/meminfo
+   31  cat /proc/partitions
+   32  free -h
+   33  df -h
+   34  isb_release -a
+   35  lsb_release -a
+   36  lsblk
+   37  lscpu
+   38  ps aux
+   39  top
+   40  history
+   41  fdisk -l
+   42  sudo fdisk -l
+   43  sudo fdisk /dev/sdb
+   44  sudp fdisk -l
+   45  sudo fdisk -l
+   46  sudo mkfs.ext4 /dev/sdb1
+   47  sudo mkfs.ext4 /dev/sdb2
+   48  sudo mkfs.ext4 /dev/sdb5
+   49  sudo mkfs.ext4 /dev/sdb6
+   50  sudo mkdir -p /mnt/{sdb1, sdb2, sdb5, sdb6}
+   51  ls -l /mnt/
+   52  ls -la /mnt/
+   53  sudo mkdir -p /mnt/{sdb1,sdb2,sdb5,sdb6}
+   54  ls -la /mnt/
+   55  df -h
+   56  sudo mount /dev/sdb1 /mnt/sdb1
+   57  sudo mount /dev/sdb2 /mnt/sdb2
+   58  sudo mount /dev/sdb5 /mnt/sdb5
+   59  sudo mount /dev/sdb6 /mnt/sdb6
+   60  df -h
+   61  sudo fdisk /dev/sdb
+   62  free
+   63  mkswap /dev/sdb3
+   64  sudo mkswap /dev/sdb3
+   65  swapon /dev/sdb3
+   66  sudo swapon /dev/sdb3
+   67  free
+   68  exit
+   69  sudo fdisk /dev/sdc
+   70  sudo fdisk -l
+   71  sudo fdisk /dev/s
+   72  sudo fdisk /dev/sdc
+   73  sudo fdisk /dev/sdb
+   74  git clone https://github.com/MFG5/TP2_Maldone_Octavio.git
+   75  cd TP2_Maldone_Octavio
+   76  sudo pvs > pvs.txt
+   77  sudo vgs > vgs.txt
+   78  sudo lvs > lvs.txt
+   79  history > historial_lvm.txt
